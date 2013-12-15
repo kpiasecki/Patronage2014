@@ -1,10 +1,10 @@
 Clone the repository into the current directory in terminal:
 
-git clone https://github.com/kpiasecki/Patronage2014.git
+git clone -b zad2 https://github.com/kpiasecki/Patronage2014.git
 
-Change the active directory in the prompt to the newly cloned "zad2" directory:
+Change the active directory in the prompt to the newly cloned "Patronage2014" directory:
 
-cd Patronage2014/zad2
+cd Patronage2014/
 
 Run Tomcat for this project:
 
