@@ -12,4 +12,4 @@ mvn tomcat7:run
 
 Open the link below in a web browser:
 
-http://localhost:8080/api/hello?person=Wilson
+http://localhost:8080/api/users
