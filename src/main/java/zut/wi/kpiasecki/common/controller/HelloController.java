@@ -10,7 +10,7 @@ import zut.wi.kpiasecki.common.model.HelloMessage;
 
 @Controller
 @RequestMapping("/api/hello")
-public class JSONController {
+public class HelloController {
 
 	@RequestMapping(method = RequestMethod.GET)
 	public @ResponseBody
